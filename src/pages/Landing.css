@@ -1,0 +1,14 @@
+
+.landing-toplevel{
+    flex-direction: column;
+}
+
+  @media screen and (max-width : 760px){
+
+    .landing-toplevel{
+        display:flex;
+        flex-direction: column;
+    }
+  }
+
+  
